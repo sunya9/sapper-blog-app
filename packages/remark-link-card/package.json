@@ -26,11 +26,11 @@
     "rimraf": "^5.0.0",
     "tsconfig": "^0.0.0",
     "typescript": "^5.3.3",
-    "vitest": "^1.0.0"
+    "vitest": "^5.0.4"
   },
   "dependencies": {
     "open-graph-scraper": "^5.0.1",
-    "sanitize-html": "^2.10.0",
+    "sanitize-html": "^2.18.0",
     "unified": "^10.1.2",
     "unist-util-visit": "^4.1.2"
   }
